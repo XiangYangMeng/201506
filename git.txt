@@ -3,4 +3,6 @@ git init
 OK
 
 
-status
+statusget log
+
+OK ba
